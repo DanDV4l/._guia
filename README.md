@@ -1,16 +1,5 @@
 # ponto_guia
 
-A new Flutter project.
+Aplicativo mobile criado para ser funcionar como guia turístico e comercial de Caxambu, além de servir como loja virtual/delivery e diariamente exibir notícias relevantes sobre Caxambu e região. O projeto funcionou utilizando APIs armazenadas no Github durante o estágio inicial, mas o seu desenvolvimento foi descontinuado por solicitação do cliente.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![pontoguia](https://user-images.githubusercontent.com/84111045/162768686-2dc90237-8ecc-490f-be2b-db7c6b216f68.png)
